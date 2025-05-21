@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+cle-gcp2.json
+.idea

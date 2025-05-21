@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+google-cloud-storage
+google-cloud-aiplatform
+python-dotenv
+google-cloud-aiplatform==1.43.0
