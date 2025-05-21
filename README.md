@@ -19,7 +19,7 @@ Ce projet est une mini API Python (FastAPI) déployée sur Google Cloud Run, ave
 
 ---
 
-## 🧰 Technologies utilisées
+## Technologies utilisées
 
 - Python 3.11 + FastAPI
 - Docker
@@ -30,7 +30,7 @@ Ce projet est une mini API Python (FastAPI) déployée sur Google Cloud Run, ave
 
 ---
 
-## ⚙️ Lancement en local
+## Lancement en local
 
 ### 1. Cloner le projet
 
