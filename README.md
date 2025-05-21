@@ -1,7 +1,12 @@
 lien du Cloud run : https://dstools-api-32184514091.europe-west1.run.app/
 
+
+CHUNG Theodore : theotrou (chef de groupe)
+PITIOT Paul : ppppaulp
+=======
 CHUNG Theodore : theotrou (roles:tout)
 BENZAQUEN Kevin : KevBenz (roles:tout)
+
 
 
 # 🌐 Mini API FastAPI – Projet Cloud (GCP)
