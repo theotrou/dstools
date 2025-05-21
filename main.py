@@ -74,23 +74,17 @@ REGION = "us-central1"
 
 @app.get("/joke")
 def get_joke():
-    try:
-        # Initialiser Vertex AI avec ton projet
+    try:       
         vertexai.init(project=PROJECT_ID, location=REGION)
-
-        # Utiliser le modèle Gemini 2.0 (exemple)
-        model = GenerativeModel(model_name="gemini-2.0-flash-001")  # Ou autre version si accessible
-
-        # Créer une session de chat
+        
+        model = GenerativeModel(model_name="gemini-2.0-flash-001") 
+  
         chat: ChatSession = model.start_chat()
 
-        # Question posée
         prompt = "Raconte-moi une blague courte et drôle en français."
 
-        # Envoyer à l'IA
         response = chat.send_message(prompt)
 
-        # Retourner la réponse
         return {"joke": response.text}
 
     except Exception as e:
