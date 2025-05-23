@@ -2,9 +2,9 @@ lien du Cloud run : https://dstools-api-32184514091.europe-west1.run.app/
 
 
 
-CHUNG Theodore : theotrou (roles:tout)
-BENZAQUEN Kevin : KevBenz (roles:tout)
-Paul Pitiot : ppppaulp (roles:tout)
+-CHUNG Theodore : theotrou (roles:tout)
+-BENZAQUEN Kevin : KevBenz (roles:tout)
+-Paul Pitiot : ppppaulp (roles:tout)
 
 
 Appelez la cle-gcp : "cle-gcp2.json"
