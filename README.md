@@ -7,6 +7,8 @@ BENZAQUEN Kevin : KevBenz (roles:tout)
 Paul Pitiot : ppppaulp (roles:tout)
 
 
+Appelez la cle-gcp : "cle-gcp2.json"
+
 
 
 # 🌐 Mini API FastAPI – Projet Cloud (GCP)
