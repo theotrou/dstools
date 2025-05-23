@@ -8,6 +8,12 @@ Paul Pitiot : ppppaulp (roles:tout)
 
 
 Appelez la cle-gcp : "cle-gcp2.json"
+Configuez votre .env comme ceci : 
+GCS_BUCKET=NOM_BUCKET
+DATA_PATH=data.csv
+GOOGLE_APPLICATION_CREDENTIALS=cle-gcp2.json (colle ta cle dans ce document la)
+PROJECT_ID=NOM_PROJET
+
 
 
 
